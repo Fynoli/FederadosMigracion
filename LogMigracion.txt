@@ -1,0 +1,19 @@
+Leo la linea: cmolteni@finnegans.com.ar;;2
+Voy a pushear el registro: {"modoAutorizacion":"2","dominio":"","email":"cmolteni@finnegans.com.ar"}
+ERROR! 400
+__________________________________________________________________
+Leo la linea: dpontacq@finnegans.com.ar;FINNEGANS;2
+Voy a pushear el registro: {"modoAutorizacion":"2","dominio":"FINNEGANS","email":"dpontacq@finnegans.com.ar"}
+ERROR! 400
+__________________________________________________________________
+Leo la linea: mmartin@finnegans.com.ar;DUHAU;
+Error de inconsistencia en el archivo. La linea no tenia 3 parametros: mmartin@finnegans.com.ar;DUHAU;
+__________________________________________________________________
+Leo la linea: avidal@finnegans.com.ar;;2
+Voy a pushear el registro: {"modoAutorizacion":"2","dominio":"","email":"avidal@finnegans.com.ar"}
+ERROR! 400
+__________________________________________________________________
+Leo la linea: nuevacuenta@finnegans.com.ar;FINNEGANS;2
+Voy a pushear el registro: {"modoAutorizacion":"2","dominio":"FINNEGANS","email":"nuevacuenta@finnegans.com.ar"}
+ERROR! 400
+__________________________________________________________________
